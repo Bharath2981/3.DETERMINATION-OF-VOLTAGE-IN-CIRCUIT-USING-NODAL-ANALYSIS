@@ -20,6 +20,7 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **Circuit diagram**
 
+<img width="1180" height="1600" alt="image" src="https://github.com/user-attachments/assets/1849f96c-c0da-4821-860c-2cd65b6d1d6c" />
 
  
 **PROCEDURE:**
@@ -38,12 +39,12 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **RESULT:**
 
-Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	V supply are:
+Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	4V supply are:
 
-a)	The voltage V1 is	V.
+a)	The voltage V1 is	1.33V.
 
-b)	The voltage V2 is	V.
+b)	The voltage V2 is	0.94V.
 
-c)	The voltage V3 is	V.
+c)	The voltage V3 is	0.39V.
 
 
